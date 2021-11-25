@@ -1,1 +1,1 @@
-# Basic-Python
+Hi there! Welcome to this repository! Here you will find code snippets from my experiences in learning basic Python. You will see some simple projects I have made using these concepts such as conditionals, loops and much more. A quick note, please refrain from directly copying my code in any way. You may take inspiration from it, but please do not take it line-for-line. Thanks!
